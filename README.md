@@ -1,2 +1,1 @@
-# ProjektZespolowyTetrisOverLAN
-Tetris game over LAN
+# Projekt Zespolowy Tetris Over LAN
